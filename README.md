@@ -1,2 +1,3 @@
 # image-denoising-with-autoencoders
-Medial image denoising using convolutional autoencoders
+Medical image denoising using convolutional autoencoders
+Reference: https://arxiv.org/pdf/1608.04667
